@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ania</h1>
+<img src="./header.png"
+     alt="Hi I'm Ania" />
 <h3 align="center">A passionate frontend developer from Poland, currently working in Japan.</h3>
 
 - 😄 Pronouns: she/her
