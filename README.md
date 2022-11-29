@@ -1,4 +1,4 @@
-<img src="./header.png"
+<img src="./headerImg.png"
      alt="Hi I'm Ania" />
 <h3 align="center">A passionate frontend developer from Poland, currently working in Japan.</h3>
 
